@@ -1,7 +1,8 @@
 <!-- Header Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Hi+I'm+Piyush+Chaudhary+👋;Aspiring+Data+Scientist;Python+%7C+Java+Learner;I+love+building+projects+and+learning+new+things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hi+I'm+Piyush+Chaudhary+👋;Aspiring+Data+Scientist;Python+%7C+Java+Learner;Building+Projects+Step+By+Step" />
 </p>
+
 
 ---
 
